@@ -66,5 +66,5 @@ src ├── main │ └── java │ └── Exercises1to7 │ └── 
 
 ## Author
 
-💻 Developed by [Your Name Here]
+💻 Developed by Alvaro Mendoza Cuello.
 📅 April 2025
